@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="14" last-seen="1712415805"/>
+    <application id="nautilus-autorun-software.desktop" score="0" last-seen="1712416898"/>
+    <application id="org.gnome.Nautilus.desktop" score="32" last-seen="1712620990"/>
+    <application id="gnome-initial-setup.desktop" score="2" last-seen="1712415652"/>
+    <application id="firefox.desktop" score="5" last-seen="1712620103"/>
+    <application id="org.gnome.Terminal.desktop" score="185" last-seen="1712620989"/>
+    <application id="org.gnome.gedit.desktop" score="148" last-seen="1712621005"/>
+    <application id="debian-xterm.desktop" score="63" last-seen="1712417135"/>
+    <application id="libreoffice-writer.desktop" score="0" last-seen="1712620857"/>
+  </context>
+</application-state>
