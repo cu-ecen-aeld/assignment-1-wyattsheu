@@ -5,8 +5,8 @@
     <application id="nautilus-autorun-software.desktop" score="0" last-seen="1712416898"/>
     <application id="org.gnome.Nautilus.desktop" score="49" last-seen="1712824176"/>
     <application id="gnome-initial-setup.desktop" score="2" last-seen="1712415652"/>
-    <application id="firefox.desktop" score="6" last-seen="1712824675"/>
-    <application id="org.gnome.Terminal.desktop" score="2021" last-seen="1712824665"/>
+    <application id="firefox.desktop" score="6" last-seen="1712825598"/>
+    <application id="org.gnome.Terminal.desktop" score="2151" last-seen="1712825597"/>
     <application id="org.gnome.gedit.desktop" score="188" last-seen="1712824175"/>
     <application id="debian-xterm.desktop" score="63" last-seen="1712417135"/>
     <application id="libreoffice-writer.desktop" score="0" last-seen="1712620857"/>

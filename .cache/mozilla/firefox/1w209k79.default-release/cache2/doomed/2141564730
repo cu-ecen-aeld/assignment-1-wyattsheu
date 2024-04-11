@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Thu, 11 Apr 2024 08:42:40 GMT -->
+  <!-- Cached: Thu, 11 Apr 2024 08:58:31 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -35,7 +35,7 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 1950,
+				"frecency": 1901,
 				"guid": "oYHHQH6jDWU9",
 				"lastVisitDate": 1712417075951,
 				"title": "YouTube",
@@ -151,7 +151,7 @@ window.__STARTUP_STATE__ = {
 		"links": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 1950,
+				"frecency": 1901,
 				"guid": "oYHHQH6jDWU9",
 				"lastVisitDate": 1712417075951,
 				"title": "YouTube",
@@ -803,4 +803,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-èPhY†           f¢€FÃ×pÿÿÿÿ       :about:home alt-data 1;14422,script version 20240401114208   ³ƒ
+™ÛT$4d           f¦7FÃÚÿÿÿÿ       :about:home alt-data 1;14422,script version 20240401114208   ³ƒ
