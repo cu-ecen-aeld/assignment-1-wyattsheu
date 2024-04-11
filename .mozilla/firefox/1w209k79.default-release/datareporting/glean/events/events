@@ -1,0 +1,9 @@
+{"timestamp":13369708,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required"}}
+{"timestamp":13371183,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"csv-import-release-rollout","branch":"enable-csv-import","experiment_type":"rollout"}}
+{"timestamp":13371238,"category":"nimbus_events","name":"enrollment","extra":{"branch":"rollout","experiment_type":"rollout","experiment":"ech-roll-out"}}
+{"timestamp":13371339,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"extensions-migration-in-import-wizard-116-rollout","branch":"control","experiment_type":"rollout"}}
+{"timestamp":13371725,"category":"nimbus_events","name":"enrollment","extra":{"branch":"holdback","experiment":"firefox-desktop-long-term-holdback-validation-release","experiment_type":"nimbus"}}
+{"timestamp":13372070,"category":"nimbus_events","name":"enrollment","extra":{"branch":"rollout","experiment_type":"rollout","experiment":"phc-rollout"}}
+{"timestamp":13372093,"category":"nimbus_events","name":"is_ready"}
+{"timestamp":13400511,"category":"nimbus_events","name":"is_ready"}
+{"timestamp":13401212,"category":"addons_manager","name":"manage","extra":{"addon_type":"other","method":"uninstall","source":"gmp-plugin","addon_id":"gmp-gmpopenh264"}}
