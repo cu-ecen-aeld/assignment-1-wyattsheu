@@ -8,3 +8,5 @@ aesd-build
 test.sh.log
 action_HW1/
 .ssh/
+.ssh/id_ed25519:1
+

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1712824454,,"wq"
+|2,0,1712824854,,"wq"
 :q!
 |2,0,1712824377,,"q!"
 :q
@@ -29,24 +29,36 @@
 # Registers:
 
 # File marks:
-'0  10  4  ~/.gitignore
-|4,48,10,4,1712824454,"~/.gitignore"
-'1  9  10  ~/.gitignore
-|4,49,9,10,1712824402,"~/.gitignore"
-'2  9  10  ~/.gitignore
-|4,50,9,10,1712824402,"~/.gitignore"
-'3  8  10  ~/.gitignore
-|4,51,8,10,1712824377,"~/.gitignore"
-'4  9  0  ~/.gitignore
-|4,52,9,0,1712824377,"~/.gitignore"
-'5  8  10  ~/.gitignore
-|4,53,8,10,1712824377,"~/.gitignore"
-'6  9  0  ~/.gitignore
-|4,54,9,0,1712824377,"~/.gitignore"
+'0  12  0  ~/.gitignore
+|4,48,12,0,1712824854,"~/.gitignore"
+'1  10  4  ~/.gitignore
+|4,49,10,4,1712824454,"~/.gitignore"
+'2  10  4  ~/.gitignore
+|4,50,10,4,1712824454,"~/.gitignore"
+'3  9  10  ~/.gitignore
+|4,51,9,10,1712824402,"~/.gitignore"
+'4  9  10  ~/.gitignore
+|4,52,9,10,1712824402,"~/.gitignore"
+'5  9  10  ~/.gitignore
+|4,53,9,10,1712824402,"~/.gitignore"
+'6  9  10  ~/.gitignore
+|4,54,9,10,1712824402,"~/.gitignore"
+'7  8  10  ~/.gitignore
+|4,55,8,10,1712824377,"~/.gitignore"
+'8  9  0  ~/.gitignore
+|4,56,9,0,1712824377,"~/.gitignore"
+'9  8  10  ~/.gitignore
+|4,57,8,10,1712824377,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  12  0  ~/.gitignore
+|4,39,12,0,1712824854,"~/.gitignore"
+-'  10  4  ~/.gitignore
+|4,39,10,4,1712824838,"~/.gitignore"
 -'  10  4  ~/.gitignore
 |4,39,10,4,1712824454,"~/.gitignore"
+-'  9  10  ~/.gitignore
+|4,39,9,10,1712824445,"~/.gitignore"
 -'  9  10  ~/.gitignore
 |4,39,9,10,1712824445,"~/.gitignore"
 -'  9  10  ~/.gitignore
@@ -55,6 +67,10 @@
 |4,39,1,0,1712824391,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1712824391,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1712824391,"~/.gitignore"
+-'  8  10  ~/.gitignore
+|4,39,8,10,1712824377,"~/.gitignore"
 -'  8  10  ~/.gitignore
 |4,39,8,10,1712824377,"~/.gitignore"
 -'  8  10  ~/.gitignore
@@ -67,11 +83,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1712824452	0
-	"	10	4
-	^	10	5
-	.	10	4
+	*	1712824844	0
+	"	12	0
+	^	12	0
+	.	11	17
 	+	8	10
 	+	9	0
 	+	9	11
-	+	10	4
+	+	10	5
+	+	11	17
